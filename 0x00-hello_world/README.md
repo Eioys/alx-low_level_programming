@@ -1,1 +1,1 @@
-C programming language 
+all about c programming,compling,executingand its commands
