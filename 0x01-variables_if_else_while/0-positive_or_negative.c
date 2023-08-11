@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
-#include <stdio>
+#include <stdio.h>
 
 /**
  * main - A program that assign a random number to the variable n.
@@ -24,5 +24,6 @@ int main(void)
 	else
 	{
 		printf("%d is negative\n", n);
-		return (0);
 	}
+	return (0);
+}
