@@ -3,10 +3,12 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * main - print number of arguments
+ * @argc: argument count
+ * @argv: argument vector
  * Return: 0 (success)
  */
-int main (int argc, char *argv[])
+int main(int argc, char *argv[])
 {
 	(void)argv;
 
